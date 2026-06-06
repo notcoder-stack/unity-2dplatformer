@@ -1,0 +1,38 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+MemoryCaptures/
+Logs/
+UserSettings/
+.vs/
+.vscode/
+.idea/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.apk
+*.aab
+*.unitypackage
+
+# Plugin editor folders
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains*
+Assets/Plugins/Editor/Resharper*
+Assets/Plugins/Editor/UnityVS*
+Assets/Plugins/Editor/VisualStudio*
+Assets/Plugins/Editor/VSCode*
